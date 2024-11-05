@@ -42,3 +42,11 @@ Running the script will organize the files as follows:
 │   └── report.pdf
 ├── Scripts
 │   └── script.py
+
+![Screenshot 1](images/screenshot1.png) ![Screenshot 2](images/screenshot2.png) ![Screenshot 3](images/screenshot3.png)
+
+### Organizing Files
+![Screenshot 4](images/screenshot4.png) ![Screenshot 5](images/screenshot5.png) ![Screenshot 6](images/screenshot6.png)
+
+### Organized Directory View
+![Screenshot 7](images/screenshot7.png) ![Screenshot 8](images/screenshot8.png)
