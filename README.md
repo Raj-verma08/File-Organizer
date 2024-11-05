@@ -43,10 +43,10 @@ Running the script will organize the files as follows:
 ├── Scripts
 │   └── script.py
 
-![Screenshot 1](images/screenshot1.png) ![Screenshot 2](images/screenshot2.png) ![Screenshot 3](images/screenshot3.png)
+![Screenshot 1](images/Screenshot1.png) ![Screenshot 2](images/Screenshot2.png) ![Screenshot 3](images/Screenshot3.png)
 
 ### Organizing Files
-![Screenshot 4](images/screenshot4.png) ![Screenshot 5](images/screenshot5.png) ![Screenshot 6](images/screenshot6.png)
+![Screenshot 4](images/Screenshot4.png) ![Screenshot 5](images/Screenshot5.png) ![Screenshot 6](images/Screenshot6.png)
 
 ### Organized Directory View
-![Screenshot 7](images/screenshot7.png) ![Screenshot 8](images/screenshot8.png)
+![Screenshot 7](images/Screenshot7.png) ![Screenshot 8](images/Screenshot8.png)
