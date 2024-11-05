@@ -1,4 +1,4 @@
-**File Organizer**
+**File Organizer** <br />
 A Python script that helps you organize files in a specified directory by grouping them based on their file extensions. The script will move files to corresponding folders (e.g., .jpg files go to a Images folder, .pdf files to a Documents folder) to keep your directory tidy.
 
 Features
